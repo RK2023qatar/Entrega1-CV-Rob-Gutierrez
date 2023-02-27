@@ -1,0 +1,36 @@
+p{ 
+    padding: 3px;
+    margin: 3px;
+    COLOR: rgb(20, 17, 22);
+    width: 300PX;
+    
+  }
+ 
+  h1{
+     padding: 3px ;
+     margin: 3px;
+     font-weight: 400;
+     color: rgb(252, 251, 253);
+     text-align: center;
+     background-color: #2e2755;
+  }
+ 
+  span { 
+    background-color:#8ABB55; }
+ 
+  header{
+   background: url("imagen1.jpg");
+   height: 250px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   text-align: center;
+   color: rgb(29, 26, 32);
+   font-size: xx-large;
+   font-weight: bold;
+   display:grid;
+   place-content: center;
+  }
+   .foto1 {
+    display: grid;
+    place-content: center;
+  }     /*Estilos a usar en la página de html*/
