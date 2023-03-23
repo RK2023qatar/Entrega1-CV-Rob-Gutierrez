@@ -15,8 +15,37 @@ p{
      background-color: #2e2755;
   }
  
-  span { 
-    background-color:#8ABB55; }
+ .ocultar{
+    display: none;
+  }
+
+  .mostrar{
+    display: block;
+  }
+
+  .ocultarES{
+    display: none;
+  }
+ 
+  .mostrarES{
+    display: block;
+  }
+
+  .ocultarEL{
+    display: none;
+  }
+ 
+  .mostrarEL{
+    display: block;
+  }
+
+  .ocultarV{
+    display: none;
+  }
+ 
+  .mostrarV{
+    display: block;
+  }
  
   header{
    background: url("imagen1.jpg");
